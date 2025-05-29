@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Martin;Singer;;;
+FN:Singer Martin
+ORG:Méhes Utószig Kft.
+ADR;TYPE=WORK:
+TITLE:projekt manager
+TEL;TYPE=CELL:+36707901141
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:singer.martin@mehesutoszig.hu
+URL;TYPE=Digital Business Card:
+URL:https://mehesutoszig.hu/
+URL;TYPE=Website:https://mehesutoszig.hu/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100202952
+END:VCARD
